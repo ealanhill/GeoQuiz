@@ -1,2 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_335f3bef0a3057cca0c3121645dbfe6a1c9ad385/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_0d206af43771ec8532f4b6b6d2827e4204c07e2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanhill/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_fcc1ec913e05d16c34fb8536d3422500be87b74e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7603fd9d7c2e4f943ac300c10159ea6c19b8fcf9">
+        <dex dex="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_006430e668e2ffdbce66eda70d26a25c506b33aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b3207772ed0e62d4dc2e616df97ca876f5865c64">
+        <dex dex="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4c210d7e725fa5b1414a185ee22a7bb1463695e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_7c2b3db9bdb7e7db2fef715f86da9b158395c2ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_cf425c7bb71035377881bffb4996b3e537bd5045/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/alanhill/Repos/Learning/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_59cd814e19e13ad78293a054bff6dcb127d924d9/classes.dex" />
+    </item>
+
+</items>
